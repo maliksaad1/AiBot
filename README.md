@@ -38,6 +38,9 @@ Contributions are welcome! If you'd like to improve the model, fix bugs, or add 
 ## Disclaimer
 Trading Forex involves significant risks. The predictions and decisions provided by this model are for informational purposes only. Always conduct thorough research and consider your risk tolerance before making trading decisions.
 
+## License
+This project is licensed under MIT  - see the LICENSE file for details.
+
 ## Support
 If you encounter issues or have questions related to the model, feel free to contact us for support.
 
