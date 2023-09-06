@@ -5,7 +5,7 @@ Welcome to the Forex Price Prediction and Decision Logic Model repository. This 
 
 ## Overview
 
-- **Author:** **Shahzaib Hassan**                                                      **Malik Muhammad Saad**
+- **Author:** Shahzaib & Saad
 - **Contact:** https://www.linkedin.com/in/shahzaib-ai-enthusiast/                      https://www.linkedin.com/in/malikmsaad-ml-business/
 
 ## Introduction
