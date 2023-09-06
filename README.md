@@ -33,7 +33,7 @@ To use this Forex Price Prediction and Decision Logic Model, follow these steps:
 5. Backtest your trading strategy with historical data to assess performance.
 
 ## Contribution
-Contributions are welcome! If you'd like to improve the model, fix bugs, or add new features, please check the .ipynb file.
+Contributions are welcome! If you'd like to improve the model, fix bugs, or add new features, please check the Forex Price Prediciton.py file.
 
 ## Disclaimer
 Trading Forex involves significant risks. The predictions and decisions provided by this model are for informational purposes only. Always conduct thorough research and consider your risk tolerance before making trading decisions.
